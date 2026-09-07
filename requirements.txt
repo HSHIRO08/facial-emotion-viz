@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+deepface
+tf-keras
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
