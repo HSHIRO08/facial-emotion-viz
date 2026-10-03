@@ -1,10 +1,10 @@
 opencv-python
 mediapipe
-deepface
-tf-keras
+torch
+torchvision
 pandas
 numpy
+scikit-learn
 matplotlib
 seaborn
-plotly
-streamlit
+tqdm

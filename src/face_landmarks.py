@@ -102,6 +102,35 @@ def get_landmark_coords(face_landmarks, frame_shape):
     return coords
 
 
+def get_face_bbox(
+    landmark_coords,
+    frame_shape,
+    top_margin_ratio=0.12,
+    bottom_margin_ratio=0.03,
+    side_margin_ratio=0.08,
+):
+    """Tính bounding box (x1, y1, x2, y2) bao quanh toàn bộ landmark, có thêm margin.
+
+    Margin không đối xứng theo chiều dọc: bottom_margin nhỏ hơn top_margin để tránh crop
+    lẫn cằm/cổ (gây nhiễu cho model nhận diện cảm xúc), trong khi vẫn giữ đủ trán.
+    """
+    height, width = frame_shape[0], frame_shape[1]
+    xs = [x for x, _ in landmark_coords.values()]
+    ys = [y for _, y in landmark_coords.values()]
+    x1, x2 = min(xs), max(xs)
+    y1, y2 = min(ys), max(ys)
+
+    box_w, box_h = x2 - x1, y2 - y1
+    x1 -= int(box_w * side_margin_ratio)
+    x2 += int(box_w * side_margin_ratio)
+    y1 -= int(box_h * top_margin_ratio)
+    y2 += int(box_h * bottom_margin_ratio)
+
+    x1, y1 = max(x1, 0), max(y1, 0)
+    x2, y2 = min(x2, width), min(y2, height)
+    return x1, y1, x2, y2
+
+
 def draw_face_regions(frame, landmark_coords):
     """Vẽ các điểm landmark lên frame, tô màu riêng theo từng vùng (lông mày/mắt/môi)."""
     for indices, color in REGION_INDICES:

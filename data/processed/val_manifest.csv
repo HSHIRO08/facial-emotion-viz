@@ -1,0 +1,1602 @@
+image_path,label
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img152 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img200 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img45.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img58 (15).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (35).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img35 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img103 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img24 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img26 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img66 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img89 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img72 (2).jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img99 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img88 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img50 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img91 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img74 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img91 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img118 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img66 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img84 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img55 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img139 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img79 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img87 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img95 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img278.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img244 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img132 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img60 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img54 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img82 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img120 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img27 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img137 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img28 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img60 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img35 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img54 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img98 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img134 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img271.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img101 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img37 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img239 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img300.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img76 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img21 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img188 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img127 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img72 (14).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img40.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img44.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img112 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img97 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img82 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img120 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img120 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img185.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img52 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img22 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img48 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img86 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img46 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img160 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img64 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img66 (17).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img76 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img74 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img122 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img48.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img139.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img137 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img100 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img146 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img126 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img238 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img65 (20).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img87 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img164 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img39 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img165.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img103 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img25 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img133 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img23 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img96 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img37 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img132 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img132 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img47 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img121 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img23 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img67 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img83 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img112 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img113 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img106 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img192 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img22.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img98 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img355 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img114 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img107 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img95.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img149 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img115 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img315.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img23.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img37 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img52 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img74 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img32 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img130 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img39 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img33 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img144 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img110 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img149 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img73 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img50 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img123 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img89 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img89 (20).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img26.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img25 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img128 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img62 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img42 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img24.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img238.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img62 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img110 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img33 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img184 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img114 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img31 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img82 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img432.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img77 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img63.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img62 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img36 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img83 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img176.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img181.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img73 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img43 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img140 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img209.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img40 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img38.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img113 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img193 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img140 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img30.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img129 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img97 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img106 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img57 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img64 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img154 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img148 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img50 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img118 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img86.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img170 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img145.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img62 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img169 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img104 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img138 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img27 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img88 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img98 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img124 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img24 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img44 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img111 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img117 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img121 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img59 (16).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img169.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img78 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img125 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img84 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img89 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img96 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img74 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img49 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img107 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img177.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img102 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img48 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img246.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img130 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img132 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img44 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img66 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img103 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img88 (39).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img20.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img121 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img74 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img93 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img67 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img111 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img70 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img44 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img118 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img67 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (37).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img138 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img105 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img70 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img100 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img97.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img110 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img26 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img75 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img74 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img101 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img184 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img60 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img178.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img88.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img34.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img138 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img129 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img169.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img267.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img357.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img59 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img23 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img8 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img98 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img46 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img73 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img64 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img114 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img184 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img30 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img70 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img30 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img37 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img99 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (36).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img158 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img41 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img78 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img121 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img116 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img44 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img104 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img120.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img141 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img19.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img77 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img37 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img105 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img125 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img83 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img48 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img145 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img76 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img241 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img115 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img100 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img73 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img25 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img230.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img87 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img102 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img83 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img27 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img100 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img34 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img126 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img95.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img41 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img100 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img31 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img98 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img72 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img23 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img95 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img25.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img94 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img121 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img125.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img91 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img73 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img138 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img127.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img85 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img185 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img106 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img73 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img89 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img59 (15).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img144 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img254.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img61 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img85 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img145 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img359.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img39 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img146 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img41 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img135 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img99 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img121 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img95 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img96 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img105.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img123 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img120 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (36).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img168 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img8 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img109 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img67.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img55 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img89 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img135.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img140 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img81 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img167.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img31.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img43 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img68 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img180 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img57 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img270.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img21 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img103 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img53 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img38 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img68 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img90 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img50 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img64 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img110 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img25 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img27 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img94 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img95 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img114 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img175 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img133 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img166 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img85 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img30 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img82 (36).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img100 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img107 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img18 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img44 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img59 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img37 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img75 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img351.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img108 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img176 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img120 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img56.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img166 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img102.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img72 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img78 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img203.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img69.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img56.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img135 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img72 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img37 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img181 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img131 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img108 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img107 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img114 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img182 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img156 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img70 (34).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img71 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img22 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img87 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img41 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img142 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img177 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img126.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img79 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img87 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img89.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img117 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img18 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img171.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img49 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img46 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img216 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img142 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img60 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img123 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img117 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img29.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img84 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img373.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img81.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img155 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img105 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img19 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img102.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img136 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img89 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img46 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img163.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img151 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img143 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img71 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img128 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img136 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img131 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img131 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img38 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img92 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img154.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img159 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img229 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img397.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img114 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img103 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img156 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img77 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img145 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img61 (3).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img40 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img144 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img177.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img160 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img55 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img168 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img81 (21).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img84 (19).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img53 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img77 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img42 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img99 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (35).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (35).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img39 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img176.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img132 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img53 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img91 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img175 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img152 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img143 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img135 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img40 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img174 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img86 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img87 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img46 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img46 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img133 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img144 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img61 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img153 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img136 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img129 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img90 (36).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img35 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img85 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img115 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img156 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img146 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img119 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img52 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img86 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img117.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img50 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img113 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img22 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img148 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img34 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img110.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img132 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img35 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img152 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img54 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img79 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img174 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img417.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img41 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img89.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img63 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img104 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img146 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img45 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img95 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (38).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img80 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img79 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img97 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img412.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img102.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img85 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img116 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img145 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img82 (37).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img61.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img112 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img28 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img75 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img187 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img79 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img46 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img109.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img251.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img61 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img77 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img76 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img43 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img69 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img98 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img103 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img12 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img38 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img63 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img60.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img56 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img109 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img88 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img185 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img62 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img103.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img128 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img134 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img84 (15).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img52 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img151 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img172 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img115 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img44.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img92 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img122 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img26 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img117 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img113 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img95 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img69 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img23.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img77 (15).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img58 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (36).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img65 (3).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img96.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img157 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img66 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img83.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img110 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img80 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img71 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img90 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img55 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img49 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img90 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img112 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img152.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img17 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img248.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img114 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img91 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img132 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img99 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img35 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img77 (21).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img124 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img54 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img81.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img66 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img95 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img87 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img53 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img53.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img151 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img142.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img75 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img198 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img40 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img43 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img141 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img108 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img80 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img90 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img79 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img79 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img65.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img204 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img108 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img75 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img92 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img160 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img124 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img433.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img119.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img65 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img51 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img30.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img80 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img91 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img115 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img199 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img111 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img65 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img47 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img119 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img150 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img124 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img43 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img174 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img53 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img110 (15).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img58 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img81 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img176 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img162.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img90 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img47 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img75 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img75 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img147.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img70 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img60 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img149.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img111 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img197.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img68 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (35).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img337 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img146 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img148 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img186 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img65 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img18.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img151 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img52 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img95 (14).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img158 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img148 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img98 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img165 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img124 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img19.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img20 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img100.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img62 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img312.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img144.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img95 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img33 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img45.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img7.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img105 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img83 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img60 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img158 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img135 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img161 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img46.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img137 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img94 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img44 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img78 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img109 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img80 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img32 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img44 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img58 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img100.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img30 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img106 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img45 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img52 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img47.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img114 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img192 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img86 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img72 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img151 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img110 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img36 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img49 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img76 (14).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img140.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img65 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img138.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img117 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img20 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img82 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img100 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img21 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img14.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img402.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img62 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img48 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img37 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img78 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img116 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img207.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img74 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img114 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img140 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img67 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img196 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img69 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img80 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img104 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img59 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img56 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img147 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img143 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img167 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img60 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img141 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img80 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img116 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img87 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img67 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img62 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img69 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img88 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img68 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img24 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img74.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img106 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img114 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img73.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img35 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img35.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img69 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img43 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img144 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img35 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img55 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img148 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img171 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img59 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img61 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img93 (33).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img57 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img59 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img118 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img87 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img82 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img93.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img74 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img156 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img31 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img121 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img21 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img104 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img104.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img69 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img142 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img186 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img15.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img47 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img46 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img161.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img88 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img121 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img100 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img107 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img369.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img93 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img118 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img100 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img110 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img64 (20).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img139 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img86 (16).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img29 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img52 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img156 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img110 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img127 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img309.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img44 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img78 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img110 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img128 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img18.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img87 (22).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img60 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img131 (12).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img131 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img56 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img150.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img90 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img81 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img12.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img62 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img141 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img62 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img130 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img46 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img89 (33).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img61 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img32 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img92 (19).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img97 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img68 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img127 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img95 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img34 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img59 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img47 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img132 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img24 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img121 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img124 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img65 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img142 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img212.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img206 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img125 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img191 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img136 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img78 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img152 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img53 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img71 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img122 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img52 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img109 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img116 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img63.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img131 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img131 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img103 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img39 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img11 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img74 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img91 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img69 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img50 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img91 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img125 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img115 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img131 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img216 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img35 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img59 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img14.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (41).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img164 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img61 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img152 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img86 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img86 (23).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img66 (19).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img68 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img41 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img47.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img105 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img80 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img199.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img27 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img134 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img134 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img91 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img79 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img205.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img206 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img51.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img64 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img87.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img99 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img84 (20).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img37 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img119 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img82 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img128 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img78 (15).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img83 (33).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img170 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img75 (16).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img91 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img86 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img157 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img56 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img111 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img121.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img60 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img50 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img105 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img14.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img65 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img162 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img87 (15).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img61 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img70 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img48 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img94 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img71 (36).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img41 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img34 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img80 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img111 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img104 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img66 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img70 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img170 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img100 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img35 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img360.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img21 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img223 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img202 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img126 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img35 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img97 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img53 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img53 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img90 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img90 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img77.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img119 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img60 (15).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img85 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img99 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img158 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img44 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img52 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img115 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img123 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img82 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img50 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img85 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img106 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img72.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img229.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img68.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img78 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img103 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img151 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img107.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img68 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img87 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img89 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img129 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img111 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img161 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img133.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img134 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img51 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img46.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img101 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img113 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img54 (27).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img56 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img138 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img10.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img102 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img79 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img150 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img58 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img61 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img84 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img123 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img69 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img84 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img29 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img92 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img144 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img53 (3).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img222 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img84 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img38 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img22 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img59 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img71 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img26.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img53 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img129 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img90 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img192.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img170 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img184 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img61 (19).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img126 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img94.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img144 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img53.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img91 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img174 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img147 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img134 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img92 (14).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img106 (35).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img127 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img46 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img25.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img144.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img109 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img147 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img52 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img116 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img37 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img97 (14).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img182.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img159.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img32 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img136 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img180 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img73 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img52 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img147 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img30 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img62 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img23 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img51 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img118 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img37 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img101 (40).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img137 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img62 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img115 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img109 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img85 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img52 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img74 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img95 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img69.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img67 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img72 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img33 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img107 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img132 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img138 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img49 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img126 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img10 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img57 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img78 (21).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img106 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img423.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img61 (16).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img76 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img75 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img71 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img69 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img37 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img106 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img72 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img21.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img99 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img120 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img126.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img80 (15).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img160 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img64 (3).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img44 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img26 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img78 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img85 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img48 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img171 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img80.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img262.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img53 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img155.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img60 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img214.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img38 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img126 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img123 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img101 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img97 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img35 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img110 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img121 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img85 (19).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img47 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img132 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img6 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img182 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img320.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img187 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img62 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img240.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img21 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img153 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img58 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img66 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img24 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img95 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img62 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img119 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img243.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img122 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img61 (16).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img97 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img70 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img328.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img138 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img105 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img191 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img133 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img42 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img374.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img75 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img41.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img9.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img52 (3).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img45 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img30 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img104 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img36 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img113 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img113 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img73.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img87 (21).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img98 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img16 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img23 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img124 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img191 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img110 (16).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img118 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img25 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img50 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img73 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img66 (14).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img168.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img103 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img76 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img120 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img56 (15).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img58 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img63 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img49 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img52 (13).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img197 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img85.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img94 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img15.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img148.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img71 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img96 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img88 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img33 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img91.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img65 (32).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img134 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img139 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img7 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img47 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img48.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img7.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img60.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img120 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img102 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img57 (16).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img97 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img49 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img63 (15).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img111 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img123 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img164 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img57 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img199 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img62.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img89.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img73 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img80 (20).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img130 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img222.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img146 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img99 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img317.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img52 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img90.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img73 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img34 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img280.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img36 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img33 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img77 (11).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img47 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img68 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img26.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img144 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img194 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img90 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img232 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img74 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img38 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img39 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img71 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img85 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img161 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img76 (15).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img75 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img109 (15).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img68 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img108 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img159 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img14 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img94 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img61 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img123 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img143 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img23 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img97 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img74 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img11 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img44 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img186.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img168 (6).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img343.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img130 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img208 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img158 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img93 (5).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img49 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img56 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img90 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img81 (23).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img114 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img128.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img90 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img135 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (31).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img66 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img77 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img138 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img110 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img81 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img99 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img61 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img57 (17).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img88 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img91 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img122 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img136 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img342 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img53 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img166 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img122 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img72 (13).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img132 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img94 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img175 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img405.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img63 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img27 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img117 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img120 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img65 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img139 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img120 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img111 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img64 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img29 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img98 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img135 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img122 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img117 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img138 (4).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img57.jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img40.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img74 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img93 (20).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img255.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img157 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img80 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img114 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img126 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img99 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img131 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img40 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img142 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img81 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img52 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img71 (9).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img149 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img30 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img396 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img68 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img120 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img153 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img141 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img61 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img152 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img26 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img44 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img86 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img111 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img131 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img67 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img142 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img136 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img86 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img31 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img31 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img104 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img60 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img139 (7).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img165 (7).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img125.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img46 (12).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img26 (5).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img91 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img85 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img112 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img102 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img61 (17).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img66 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img78 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img43 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img79 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img100 (10).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img134 (2).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img55 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img186.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img129 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img106 (26).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img185 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img201 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img10.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img25 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img215 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img22 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img430.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img106.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img95 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img29 (3).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img124 (16).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img99 (8).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img102 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img80 (28).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img68 (18).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img104 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img93.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img84.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (38).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img114 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img50 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img194.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img110 (21).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img64 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img75 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img109 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img105 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img35 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img59 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img71 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (18).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img72 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img159 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img155 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img51 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img84 (11).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img73 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img61 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img46 (13).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img111 (6).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img188.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img50 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img143.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img33 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img38 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img196 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img140 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img57 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img100 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img103 (23).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img79 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img43.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img70 (20).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img113 (24).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img101 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img152 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img113 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img120 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img76 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img141 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img67 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img42.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img167 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img18 (4).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img38 (13).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img120 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img80 (38).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img109 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img86 (15).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img62 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img111.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img64 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img20 (3).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img47 (5).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img96 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img93 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img112 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img63 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img39 (3).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img84 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img36 (7).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img99 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img158.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img127 (19).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img105 (4).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img192.jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img105 (11).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img156 (2).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img77 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img93 (10).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img72 (12).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img43 (6).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img72 (14).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img150 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img85 (10).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img96 (25).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img86 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img99 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img97 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img134 (8).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img92 (9).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img119 (2).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img70 (14).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img97 (35).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img54 (9).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img94 (4).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img143 (6).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img266.jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\sadness\reg_img27 (2).jpg,sadness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img74 (30).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img138 (8).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img302.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img171.jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img22 (12).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img368.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img179 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img73 (34).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img102 (7).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\fear\reg_img47.jpg,fear
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img161 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img439.jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img132 (5).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img74 (11).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img159 (2).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img147 (8).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\surprise\reg_img83 (9).jpg,surprise
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img85 (3).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img48 (10).jpg,repression
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img98 (29).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\disgust\reg_img76 (22).jpg,disgust
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\happiness\reg_img98 (14).jpg,happiness
+C:\Users\mainh\OneDrive\Attachments\Máy tính\facial-emotion-viz\data\raw\repression\reg_img106 (14).jpg,repression
