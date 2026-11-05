@@ -89,7 +89,9 @@ python realtime_inference.py --checkpoint ../checkpoints/best_model.pt
 Mỗi khung hình webcam được crop khuôn mặt (qua MediaPipe FaceLandmarker) rồi đưa vào
 model để phân loại. Kết quả (nhãn, bounding box, biểu đồ xác suất các lớp) được làm mượt
 bằng EMA để chống nhảy nhãn giữa các frame. Cửa sổ hiển thị tự co vừa màn hình (`MAX_DISPLAY_WIDTH/HEIGHT`
-trong `realtime_inference.py`), có nút **Start/Pause** (bấm chuột ở góc dưới trái) để tạm
+trong `realtime_inference.py`), trạng thái cảm xúc được giữ cố định trong 3 giây trước khi
+được cập nhật lại (điều chỉnh bằng `EMOTION_UPDATE_INTERVAL_SECONDS` trong `src/config.py`).
+Có nút **Start/Pause** (bấm chuột ở góc dưới trái) để tạm
 dừng/tiếp tục xử lý video. Nhấn `q` để thoát, `s` để bật/tắt ghi lịch sử cảm xúc ra
 `checkpoints/emotion_history.csv`.
 
@@ -117,4 +119,3 @@ Cấu hình qua `config.USE_TRANSFER_LEARNING`:
         ▼
   Fully-Connected Classifier -> logits (B, NUM_CLASSES)
 ```
-

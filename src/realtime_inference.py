@@ -14,6 +14,7 @@ tiếp tục xử lý video mà không cần đóng ứng dụng.
 import argparse
 import csv
 import os
+import time
 from datetime import datetime
 
 import cv2
@@ -25,6 +26,7 @@ from config import (
     CHECKPOINT_DIR,
     CLASS_LABELS,
     DEVICE,
+    EMOTION_UPDATE_INTERVAL_SECONDS,
     EMOTION_HISTORY_CSV,
     IDX_TO_LABEL,
     IMAGE_SIZE,
@@ -197,7 +199,8 @@ def run(checkpoint_path, camera_index=0, log_history=False):
 
     smoothed_probs = None
     smoothed_bbox = None
-    last_logged_label = None
+    committed_probs = None
+    last_emotion_update_at = None
     last_rendered_frame = None
 
     try:
@@ -242,6 +245,8 @@ def run(checkpoint_path, camera_index=0, log_history=False):
                     # Mất mặt: reset trạng thái smoothing để không "kéo dài" dự đoán cũ sai lệch.
                     smoothed_probs = None
                     smoothed_bbox = None
+                    committed_probs = None
+                    last_emotion_update_at = None
 
                 last_rendered_frame = frame
                 display_frame = cv2.resize(frame, (display_width, display_height))
@@ -251,20 +256,33 @@ def run(checkpoint_path, camera_index=0, log_history=False):
                     scaled_bbox = tuple(int(v * display_scale) for v in smoothed_bbox)
                     cv2.rectangle(display_frame, (scaled_bbox[0], scaled_bbox[1]), (scaled_bbox[2], scaled_bbox[3]), (0, 255, 0), 2)
                 
-                # Vẽ emotion text nếu có dự đoán
+                # Chỉ chốt trạng thái một lần trong mỗi khoảng thời gian để tránh nhảy nhãn.
                 if smoothed_probs is not None:
-                    pred_idx = int(np.argmax(smoothed_probs))
+                    now = time.monotonic()
+                    if (
+                        committed_probs is None
+                        or last_emotion_update_at is None
+                        or now - last_emotion_update_at >= EMOTION_UPDATE_INTERVAL_SECONDS
+                    ):
+                        committed_probs = smoothed_probs.copy()
+                        last_emotion_update_at = now
+
+                        pred_idx = int(np.argmax(committed_probs))
+                        label = IDX_TO_LABEL[pred_idx]
+                        confidence = float(committed_probs[pred_idx])
+                        if log_history and confidence >= REALTIME_CONFIDENCE_THRESHOLD:
+                            _append_history_row(label, confidence)
+
+                if committed_probs is not None:
+                    pred_idx = int(np.argmax(committed_probs))
                     label = IDX_TO_LABEL[pred_idx]
-                    confidence = float(smoothed_probs[pred_idx])
-                    _draw_probability_bar_chart(display_frame, smoothed_probs)
+                    confidence = float(committed_probs[pred_idx])
+                    _draw_probability_bar_chart(display_frame, committed_probs)
                     if confidence >= REALTIME_CONFIDENCE_THRESHOLD:
                         cv2.putText(
                             display_frame, f"Emotion: {label} ({confidence:.0%})", (10, 30),
                             cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 255, 0), 2,
                         )
-                        if log_history and label != last_logged_label:
-                            _append_history_row(label, confidence)
-                            last_logged_label = label
 
                 _draw_buttons(display_frame, button_rects, ui_state.paused)
                 cv2.imshow(WINDOW_NAME, display_frame)
@@ -289,5 +307,3 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     run(args.checkpoint, args.camera, args.log_history)
-
-

@@ -58,6 +58,9 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # --- Tham số suy luận real-time ---
 REALTIME_CONFIDENCE_THRESHOLD = 0.5
+# Trạng thái cảm xúc được giữ cố định trong khoảng thời gian này, thay vì đổi
+# theo từng frame của webcam.
+EMOTION_UPDATE_INTERVAL_SECONDS = 3.0
 # Crop khuôn mặt sát hơn (ít margin) để tránh lẫn cổ/nền vào ảnh đưa vào model.
 # Margin không đối xứng: trán cần nhiều hơn 1 chút, cằm/cổ cần ít để không "ôm" quá sâu.
 FACE_BBOX_TOP_MARGIN_RATIO = 0.12
@@ -68,4 +71,3 @@ FACE_BBOX_SIDE_MARGIN_RATIO = 0.08
 PROB_SMOOTHING_ALPHA = 0.3  # càng nhỏ càng mượt (ít nhạy với thay đổi tức thời)
 BBOX_SMOOTHING_ALPHA = 0.4
 EMOTION_HISTORY_CSV = os.path.join(CHECKPOINT_DIR, "emotion_history.csv")
-
